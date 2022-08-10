@@ -9,7 +9,7 @@ const config = {
   title: "Hypercerts",
   tagline: "Impact in hyperspace",
   url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  baseUrl: "/hypercerts-docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
