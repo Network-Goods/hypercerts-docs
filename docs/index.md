@@ -12,6 +12,6 @@ The purpose of the development is twofold: We want to (1) specify hypercerts as 
 
 The users of the applications are:
 * **Creators**: Individuals and organizations who create impactful goods that currently don’t have a profitable business model.
-* **Funders**: Investors, philanthropists, foundations, and other institutions that fund creators to make a profit and/or to create positive impact.
+* **Funders**: Investors, philanthropists, foundations, and other institutions that fund creators to create positive impact.
 * **Evaluators**: Experts, institutions, and groups of beneficiaries or users who evaluate the impact of goods.
 
