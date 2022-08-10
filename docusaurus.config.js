@@ -94,11 +94,11 @@ const config = {
             items: [
               {
                 label: "Refinement",
-                to: "refinement/",
+                to: "/refinement",
               },
               {
                 label: "Meetings",
-                to: "meeting-notes/",
+                to: "meeting-notes",
               },
             ],
           },
