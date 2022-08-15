@@ -24,9 +24,9 @@ A project for planting trees called `Save the trees` has `bought land` in `Spain
     "creators": ["ethAddress1", "ethAddress2", ...],
     "work_scope": ["Tree-planting", "Spain", "volunteer labor", "financial support", "material support", "referrals"],
     "work_time": [1627776000,1640995199],
-    "impact_scope": "any",
+    "impact_scope": [],
     "impact_time": [1640995200, 0],
-    "rights": "...",
+    "rights": [],
     "uri": "ipfs://bafkreia53j3ykwrce5qcu2ywfpulmv5ckuhlflfwhak62ecmranculbzeu"
 }
 ```
@@ -40,9 +40,9 @@ Funding the Commons is an event series that explores novel funding mechanisms fo
   "creators": ["daoAddress"],
   "work_scope": ["Event", "Funding the Commons", "FundingTheCommons/Jun'22"],
   "work_time": [1640995200, 1656633599],
-  "impact_scope": "any",
+  "impact_scope": [],
   "impact_time": [1656633600, 1672531199],
-  "rights": "...",
+  "rights": [],
   "uri": "ipfs://bafkreia53j3ykwrce5qcu2ywfpulmv5ckuhlflfwhak62ecmranculbzeu"
 }
 ```
@@ -56,9 +56,9 @@ During the last `four years` `CleanOceanDAO` coordinated actions and resources f
   "creators": ["daoAddress"],
   "work_scope": ["Pollution", "Ocean", "financial support"],
   "work_time": [1534291200, 1660607999],
-  "impact_scope": "any",
+  "impact_scope": [],
   "impact_time": [1534291200, 0],
-  "rights": "...",
+  "rights": [],
   "uri": "ipfs://bafkreia53j3ykwrce5qcu2ywfpulmv5ckuhlflfwhak62ecmranculbzeu"
 }
 ```
@@ -72,9 +72,9 @@ Groups of volunteers provided `housing` for a group of `refugees` for the course
   "creators": ["daoAddress"],
   "work_scope": ["Community", "Refugee", "material support"],
   "work_time": [1593561600, 1596239999],
-  "impact_scope": "any",
+  "impact_scope": [],
   "impact_time": [1593561600, 1596239999],
-  "rights": "...",
+  "rights": [],
   "uri": "ipfs://bafkreia53j3ykwrce5qcu2ywfpulmv5ckuhlflfwhak62ecmranculbzeu"
 }
 ```
