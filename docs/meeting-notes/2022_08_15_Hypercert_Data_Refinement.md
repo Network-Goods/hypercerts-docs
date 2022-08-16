@@ -1,4 +1,4 @@
-## Refining Hypercerts examples 2022.08.15
+## 2022-08-15 Refining Hypercerts examples
 
 ## Participants
 * @reasn 
