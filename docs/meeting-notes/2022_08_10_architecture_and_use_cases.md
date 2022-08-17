@@ -24,7 +24,7 @@
 * If 100 Does the HyperCert contain the amount of impact (e.g. )
 * When evaluating a subsection of the hyperspace, do evaluators' evaluations reference a subset of the contributors space, i.e. does the evaluation say who did the contributions?
   * ❗️ Yes, which implies that whenever an evaluation covers impact created by multiple contributors, these have to merge their claims/HyperCerts into a single HyperCert to claim their impact. Only after can they split the HyperCert further.
-* Do we support a royalty flow (from [2022-08-09 on Technical & Feature Scope](2022_09_09_tech_and_feat_scope))?
+* Do we support a royalty flow (from [2022-08-09 on Technical & Feature Scope](2022_08_09_tech_and_feat_scope))?
   * ❗️ If we can upgrade and add royalty support post-v0, let's skip it for now
 * How do we keep upgrades to future HyperCert versions deterministic?
   * ❗️ @reasn It might make sense to version symbol dimensions (scope of work, scope of impact, rights) to cover cases where we can't deterministically map while upgrading. That would solve cases where retroactivally increase the granularity of symbol dimensions (which is not necessarily [mece](https://en.wikipedia.org/wiki/MECE_principle))
