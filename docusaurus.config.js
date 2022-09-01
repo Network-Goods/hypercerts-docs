@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Hypercerts",
   tagline: "Impact in hyperspace",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://protocol.github.io/hypercerts-docs/",
   baseUrl: "/hypercerts-docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -72,8 +72,8 @@ const config = {
             position: "right",
           },
           {
-            type: 'docsVersionDropdown',
-            position: 'left',
+            type: "docsVersionDropdown",
+            position: "left",
             dropdownActiveClassDisabled: true,
           },
         ],

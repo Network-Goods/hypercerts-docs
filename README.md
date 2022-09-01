@@ -1,16 +1,12 @@
 # Website
 
+You can find the production version of this website at [protocol.github.io/hypercerts-docs/refinement](https://protocol.github.io/hypercerts-docs/refinement)
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
-```
-
 ### Local Development
 
 ```
+$ yarn
 $ yarn start
 ```
 
