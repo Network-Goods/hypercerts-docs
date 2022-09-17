@@ -19,4 +19,4 @@ The users of the applications are:
 
 This documentation here tracks public material (videos, writing, prototypes, etc.) about hypercerts. It is maintained by a multi-organization collaboration of engineers, scientists, founders, and donors working to implement and deploy hypercerts.
 
-If you have descriptions or progress deploying hypercerts, please reach out to [hypercerts@protocol.ai](mailto:hypercerts@protocol.ai) to have your content added here.
+If you have descriptions or progress deploying hypercerts, please reach out to [hypercerts@protocol.ai](mailto:hypercerts@protocol.ai) or join this [telegram group](https://t.me/+YF9AYb6zCv1mNDJi) to have your content added here.
