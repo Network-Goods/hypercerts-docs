@@ -1,7 +1,7 @@
 ---
 title: Hypercert Pilot
 id: pilot
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 # Hypercert Pilot
