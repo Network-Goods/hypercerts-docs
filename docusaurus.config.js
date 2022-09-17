@@ -110,10 +110,6 @@ const config = {
                 label: "Refinement",
                 to: "/refinement",
               },
-              {
-                label: "Meetings",
-                to: "meeting-notes",
-              },
             ],
           },
           {
