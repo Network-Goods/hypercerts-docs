@@ -1,5 +1,5 @@
 ---
-title: Hypercert Pilot
+title: The hypercert pilot app
 id: pilot
 sidebar_position: 4
 ---
