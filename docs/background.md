@@ -12,7 +12,7 @@ sidebar_position: 3
 
 <iframe width="675" height="380" src="https://protocol.ai/blog/hypercert-new-primitive/" frameborder="0"></iframe>
 
-#### Jun 2022, Tech report by [@davidad](https://twitter.com/davidad): [Hypercerts; an Interoperable Datalayer for Impact-Funding Mechanisms](https://github.com/protocol/hypercerts-docs/blob/main/static/pdf/hypercerts_Tech_Report_draft.pdf)
+#### Jun 2022, Tech report (draft) by [@davidad](https://twitter.com/davidad): [Hypercerts; an Interoperable Datalayer for Impact-Funding Mechanisms](https://github.com/protocol/hypercerts-docs/blob/main/static/pdf/hypercerts_Tech_Report_draft.pdf)
 
 [![hypercert_tech_report](https://raw.githubusercontent.com/protocol/hypercerts-docs/main/static/img/hypercert_tech_report.png)](https://github.com/protocol/hypercerts-docs/blob/main/static/pdf/hypercerts_Tech_Report_draft.pdf)
 
