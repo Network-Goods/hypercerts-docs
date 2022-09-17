@@ -4,9 +4,11 @@ id: pilot
 sidebar_position: 2
 ---
 
-# Hypercert Pilot
-Together with partners from its network, [Protocol Labs](https://protocol.ai/) is working on a pilot for hypercerts.
+# Hypercert pilot application
 
+The pilot application to mint and burn hypercerts on the Goerli testnet is [here](https://hypercerts-pilot.vercel.app/claim-hypercert):
+
+<iframe width="675" height="880" src="https://hypercerts-pilot.vercel.app/claim-hypercert" frameborder="0"></iframe>
 
 ## Links related to the pilot
 * [Announcement blog post by Protocol Labs](https://protocol.ai/blog/hypercert-new-primitive/)
