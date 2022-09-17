@@ -14,6 +14,8 @@ The hypercert ledger is an interoperable data layer for impact-funding mechanism
 
 Each hypercert is an impact claim described by (1) the scope of work that has been (or will be) performed in a given time period by a set of specified contributors and (2) the scope of impact that this work has had (or will have) in another given time period. In addition, a hypercert has the potential to declare which rights the owner of the hypercert has, e.g. the right to publicly display the hypercert.
 
+### Examples
+
 |                       | Example 1                     | Example 2                                                                                                                                                                                                                                                                                                                                                      |
 |-----------------------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Set of contributors   | Vanessa Kosoy, Alex Appel     | Nelson Elhage, Neel Nanda, Catherine Olsson, Tom Henighan, Nicholas Joseph, Ben Mann, Amanda Askell, Yuntao Bai, Anna Chen, Tom Conerly, Nova DasSarma, Dawn Drain, Deep Ganguli, Zac Hatfield-Dodds, Danny Hernandez, Andy Jones, Jackson Kernion, Liane Lovitt, Kamal Ndousse, Dario Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, Chris Olah |
@@ -22,8 +24,9 @@ Each hypercert is an impact claim described by (1) the scope of work that has be
 | Scope of impact       | AI Existential Safety         | AI Existential Safety                                                                                                                                                                                                                                                                                                                                          |
 | Time period of impact | 2022-08-25 to Forever         | 2022-08-25 to Forever                                                                                                                                                                                                                                                                                                                                          |
 | Rights                | Public display                | Public display                                                                                                                                                                                                                                                                                                                                                 |
+### Design example
 
-[[./static/img/hypercert_example.png]]
+![hypercert_example-design](https://github.com/protocol/hypercerts-docs/blob/main/static/img/hypercert_example.png)
 
 ## Functions of hypercerts
 
