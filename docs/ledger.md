@@ -1,5 +1,5 @@
 ---
-title: Hypercert ledger
+title: The hypercert ledger
 id: ledger
 sidebar_position: 2
 ---

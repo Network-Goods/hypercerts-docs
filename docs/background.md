@@ -1,5 +1,5 @@
 ---
-title: Background
+title: Background material
 id: background
 sidebar_position: 3
 ---
