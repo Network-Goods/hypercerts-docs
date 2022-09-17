@@ -116,12 +116,12 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "GitHub",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Telegram",
+                href: "https://t.me/+YF9AYb6zCv1mNDJi",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/protocollabs",
+                href: "https://twitter.com/ProtoResearch",
               },
             ],
           },
