@@ -6,9 +6,10 @@ sidebar_position: 3
 
 # Background
 
-## Related and Prior Art
+## Writings
 
-TBD - feel free to add what comes to mind.
+<iframe width="675" height="380" src="https://protocol.ai/blog/hypercert-new-primitive/" frameborder="0"></iframe>
+
 
 ## Technical Talks by [@davidad](https://twitter.com/davidad)
 
