@@ -41,11 +41,7 @@ The hypercert ledger doesn’t impose any specific impact-funding mechanism. For
 - **Bounties:** A funder commits – for example via a smart contract – to buy a hypercert from a project if a clearly defined activity has been performed or an output has been created
 - **Retrospective evaluations:** A team creates some impact and mints a hypercert for it, a funder evaluates it and buys it retrospectively
 
-<figure>
-
-!["hypercerts as a data layer"](./hypercert_data_layer.png)
-
-</figure>
+[[./static/img/hypercert_data_layer.png]]
 
 Beyond the types of funding, funders can, of course, also use different decision mechanisms to determine which hypercerts they want to buy for which price. This also includes mechanisms such as a third party organizing an auction or other market mechanisms to bring buyers (funders) and sellers (teams) of hypercerts together.
 
