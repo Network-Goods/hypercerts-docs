@@ -12,9 +12,9 @@ sidebar_position: 3
 
 Aug 24, 2022, Blogpost by [@holkeb](https://twitter.com/holkeb): [Hypercerts: A new primitive for public goods funding](https://protocol.ai/blog/hypercert-new-primitive/)
 
-<iframe width="675" height="380" src="https://github.com/protocol/hypercerts-docs/blob/main/static/pdf/hypercerts_Tech_Report_draft.pdf" frameborder="0"></iframe>
+<iframe width="675" height="380" src="https://github.com/protocol/hypercerts-docs/raw/main/static/pdf/hypercerts_Tech_Report_draft.pdf" frameborder="0"></iframe>
 
-Jun 2022, Tech report by [@davidad](https://twitter.com/davidad): [Hypercerts; an Interoperable Datalayer for Impact-Funding Mechanisms](https://github.com/protocol/hypercerts-docs/blob/main/static/pdf/hypercerts_Tech_Report_draft.pdf)
+Jun 2022, Tech report by [@davidad](https://twitter.com/davidad): [Hypercerts; an Interoperable Datalayer for Impact-Funding Mechanisms](https://github.com/protocol/hypercerts-docs/raw/main/static/pdf/hypercerts_Tech_Report_draft.pdf)
 
 ## Talks
 
