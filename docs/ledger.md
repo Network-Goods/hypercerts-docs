@@ -23,11 +23,7 @@ Each hypercert is an impact claim described by (1) the scope of work that has be
 | Time period of impact | 2022-08-25 to Forever         | 2022-08-25 to Forever                                                                                                                                                                                                                                                                                                                                          |
 | Rights                | Public display                | Public display                                                                                                                                                                                                                                                                                                                                                 |
 
-<figure>
-
-!["hypercerts as a data layer"](./hypercert_example.png)
-
-</figure>
+[[./static/img/hypercert_example.png]]
 
 ## Functions of hypercerts
 
