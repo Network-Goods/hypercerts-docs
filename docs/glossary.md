@@ -19,5 +19,5 @@ sidebar_position: 5
 | Hypercert     | A claim in the impact space, i.e. a unique statement about work on a public good, its *contributors*, and its *impact*, constrainted in time. Hypercerts consist of 1...n *fractions*. Under the hood, a *hypercert* corresponds to a *slot* as defined in [EIP-3525](https://eips.ethereum.org/EIPS/eip-3525).      | ~~impact cert~~, ~~impact claim~~, ~~slot~~, ~~HyperCert~~    |
 | Impact     | Not defined by the protocol but negotiated between *minters* and *funders*.      | |
 | Minter     | The party minting a *hypercert*      | ~~Impact Creator~~ |
-| Slot     | Hypercerts are represented by slots as defined in [EIP-3525](https://eips.ethereum.org/EIPS/eip-3525). All *fractions* (tokens) assigned to the same slot form a *hypercert*.       |  |
-| Token     | Tradeable unit of a *hypercert*. Implementation of a *fraction*.       |  |
+| Slot     | Important implementation detail. Hypercerts are represented by slots as defined in [EIP-3525](https://eips.ethereum.org/EIPS/eip-3525). All *fractions* (tokens) assigned to the same slot form a *hypercert*.       |  |
+| Token     | Important Implementation detail. Tokens represent *fraction* and are the tradeable unit of a *hypercert*. |  |
