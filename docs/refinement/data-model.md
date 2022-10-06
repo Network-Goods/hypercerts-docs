@@ -1,8 +1,8 @@
 # Data Model
 
-## Hypercert v0.1
+## HyperCert v0.1
 
-Every hypercert is an impact claim defined in a hyperspace with the following dimensions:
+Every HyperCert is an impact claim defined in a hyperspace with the following dimensions:
 
 - Time interval of work: Start and end date of work, both can be in the past or future
 - Scope of work: Description of the work that produced or will produce impact
@@ -11,9 +11,9 @@ Every hypercert is an impact claim defined in a hyperspace with the following di
   - Description of impact: Text to describe the impact
   - Impact variables: Sets of variable types (string), values (string or decimal), able to aggregate (boolean), optional maximal value (decimal) and optional display type, e.g. {“CO2e stored in tons”, 500, true}. These can be implemented analogous to attributes in the OpenSea metadata recommendations.
 - Set of creators: Addresses of all individual creators who contributed to the work
-- Types of rights: Description of rights that the owners of the hypercerts have, e.g. the right to publicly display or IP rights
+- Types of rights: Description of rights that the owners of the HyperCerts have, e.g. the right to publicly display or IP rights
 
-Below we provide some examples of the data provided to the hypercert minter. See the segment on [metadata](#hypercert-metadata-v0.1) on how to provide additional data on your impact.
+Below we provide some examples of the data provided to the HyperCert minter. See the segment on [metadata](#hypercert-metadata-v0.1) on how to provide additional data on your impact.
 
 ### Tree planting
 
@@ -79,7 +79,7 @@ Groups of volunteers provided `housing` for a group of `refugees` for the course
 }
 ```
 
-## Hypercert metadata v0.1
+## HyperCert metadata v0.1
 
 The metadata is to be provided as a JSON stored on IPFS. The metadata must at least match the minimal spec based on [EIP1155 specification](https://eips.ethereum.org/EIPS/eip-1155#metadata), but additional fields can be added when required. We recommend using the `refs` field to linking to external resources.
 

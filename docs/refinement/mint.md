@@ -1,6 +1,6 @@
 # Minting
 - single creator
-- user supplies [hypercert metadata](https://hackmd.io/e3WhpdP8R1eOWgPDspfXVQ?both=#Hypercert-v01) in app
+- user supplies [HyperCert metadata](https://hackmd.io/e3WhpdP8R1eOWgPDspfXVQ?both=#Hypercert-v01) in app
 
 ```mermaid
     sequenceDiagram
@@ -14,9 +14,9 @@
         Creator->>App: Mint impact claim
         App->>IPFS: Store impact claim data
         IPFS-->>App: Return CID
-        App->>Contract: Mint hypercert token
-        note over Contract: Check mapping(creator => hypercerts[]) for overlap creator-hypercert
+        App->>Contract: Mint HyperCert token
+        note over Contract: Check mapping(creator => HyperCerts[]) for overlap creator-HyperCert
         note over Contract: set royalties for creator(s) according to royalties[]
-        Contract-->>App: Hypercert token minted
+        Contract-->>App: HyperCert token minted
         App->>Creator: Display NFT
 ```
