@@ -1,7 +1,7 @@
 {
-  "name": "hypercerts",
-  "version": "0.0.0",
-  "private": true,
+  "name": "hypercerts-docs",
+  "version": "0.1.0",
+  "private": false,
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",

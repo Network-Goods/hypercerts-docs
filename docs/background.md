@@ -8,17 +8,17 @@ sidebar_position: 3
 
 ## Writings
 
-#### Aug 24, 2022, Blogpost by [@holkeb](https://twitter.com/holkeb): [Hypercerts: A new primitive for public goods funding](https://protocol.ai/blog/hypercert-new-primitive/)
+#### Aug 24, 2022, Blogpost by [@holkeb](https://twitter.com/holkeb): [HyperCerts: A new primitive for public goods funding](https://protocol.ai/blog/hypercert-new-primitive/)
 
 <iframe width="675" height="380" src="https://protocol.ai/blog/hypercert-new-primitive/" frameborder="0"></iframe>
 
-#### Jun 2022, Tech report (draft) by [@davidad](https://twitter.com/davidad): [Hypercerts; an Interoperable Datalayer for Impact-Funding Mechanisms](https://github.com/protocol/hypercerts-docs/blob/main/static/pdf/hypercerts_Tech_Report_draft.pdf)
+#### Jun 2022, Tech report (draft) by [@davidad](https://twitter.com/davidad): [HyperCerts; an Interoperable Datalayer for Impact-Funding Mechanisms](https://github.com/protocol/hypercerts-docs/blob/main/static/pdf/hypercerts_Tech_Report_draft.pdf)
 
 [![hypercert_tech_report](https://raw.githubusercontent.com/protocol/hypercerts-docs/main/static/img/hypercert_tech_report.png)](https://github.com/protocol/hypercerts-docs/blob/main/static/pdf/hypercerts_Tech_Report_draft.pdf)
 
 ## Talks
 
-#### Jun 24, 2022, Talk at [Funding the Commons](https://fundingthecommons.io/) by [@davidad](https://twitter.com/davidad): [Hypercerts: on-chain primitives for impact markets](https://youtu.be/2hOhOdCbBlU)
+#### Jun 24, 2022, Talk at [Funding the Commons](https://fundingthecommons.io/) by [@davidad](https://twitter.com/davidad): [HyperCerts: on-chain primitives for impact markets](https://youtu.be/2hOhOdCbBlU)
 
 <iframe width="675" height="380" src="https://www.youtube.com/embed/2hOhOdCbBlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -26,7 +26,7 @@ sidebar_position: 3
 
 <iframe width="675" height="380" src="https://www.youtube.com/embed/kyo5SxtSJ9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Mar 4, 2022, Talk at [Funding the Commons](https://fundingthecommons.io/) by [@davidad](https://twitter.com/davidad): [Interoperable mechanisms for non-rival goods (Hypercerts)](https://youtu.be/acbBeGcevok)
+#### Mar 4, 2022, Talk at [Funding the Commons](https://fundingthecommons.io/) by [@davidad](https://twitter.com/davidad): [Interoperable mechanisms for non-rival goods (HyperCerts)](https://youtu.be/acbBeGcevok)
 
 <iframe width="675" height="380" src="https://www.youtube.com/embed/acbBeGcevok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
