@@ -1,5 +1,5 @@
 ---
-title: Background material
+title: Concepts/Background
 id: background
 sidebar_position: 3
 ---

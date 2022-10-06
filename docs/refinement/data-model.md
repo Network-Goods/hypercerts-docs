@@ -79,7 +79,7 @@ Groups of volunteers provided `housing` for a group of `refugees` for the course
 }
 ```
 
-## HyperCert metadata v0.1
+ metadata v0.1
 
 The metadata is to be provided as a JSON stored on IPFS. The metadata must at least match the minimal spec based on [EIP1155 specification](https://eips.ethereum.org/EIPS/eip-1155#metadata), but additional fields can be added when required. We recommend using the `refs` field to linking to external resources.
 
