@@ -1,7 +1,7 @@
 ---
 title: The HyperCert ledger
 id: ledger
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # The HyperCert ledger

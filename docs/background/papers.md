@@ -1,7 +1,7 @@
 ---
-title: Concepts/Background
-id: background
-sidebar_position: 3
+title: Papers, Articles, Presentations
+id: papers
+sidebar_position: 2
 ---
 
 # Background
