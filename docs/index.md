@@ -24,7 +24,7 @@ HyperCerts are like carbon credits, but on any impact vector. While carbon credi
 
 ## The Systemic Effects of Retrospective Funding with HyperCerts
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTL1b7bzzOxLLwdf1awVARKvNCg1wT_5ObqjLYmx9QwsAuXPyijc_72mQSlS0aQbbNuOBMVozcMLJBq/embed?start=false&loop=false&delayms=3000" frameborder="0"  width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="slides"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0LrA1Boo3T7_sderpS2GtcmfxCl3A_zRqUqPODPyWp-kLclLlFyGEFCCChcsdkG0ry-yVLlqXM73b/embed?start=false&loop=false&delayms=3000" frameborder="0"  width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="slides"></iframe>
 
 <p>
 &nbsp;
@@ -48,7 +48,7 @@ To realize this, HyperCerts are semi-fungible and one of the first implementatio
 
 ### Application
 
-Check out the [user flows](/) to see how HyperCerts are used in concrete use cases.
+Check out the [user flows](/flows) to see how HyperCerts are used in concrete use cases.
 
 ### Concepts/Background
 Curious? Head over to [Concepts/Background](background.md)!

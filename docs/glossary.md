@@ -13,6 +13,7 @@ sidebar_position: 5
 | Term | Description | Instead of | Protocol Entity* |
 | -------- | -------- | -------- | -------- |
 | Contributor     | The parties contributing to a unit of impact claimed by a *HyperCert*.      | ~~impact creator~~, ~~author~~    | ☑️ |
+| Evaluator     | A party that assesses whether a given HyperCert represents a legimate claim to the underlying work and impact. Evaluators typically look at the *Project* or talks with *Contributors*. |  | - |
 | Fraction     | Represents a tradeable part of a *HyperCert*. Can be split further, Fractions of the same HyperCert can be merged into a larger fraction. Fractions are implemented as [semi-fungible (EIP-3525)](https://eips.ethereum.org/EIPS/eip-3525) → *tokens*. | ~~Token~~ | ☑️ |
 | Funder     | Any party buying *fractions* of a *HyperCert* or promising to do so (*retrospective funder*).      | ~~Donor~~ | - |
 | Funder, retrospective     | Any party promising to buy *fractions* of a *HyperCert*.      | ~~retroactive funder~~ | - |
