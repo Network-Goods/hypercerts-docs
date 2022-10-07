@@ -43,12 +43,12 @@ Each HyperCert represents a public goods claim, comprising of effort and impact.
 Each HyperCert is a claim to a subset of that space. Itemizing impact increases transparency, reduces transaction consts and introduces easy tradeability.
 
 ### Fractions
-Typical scenarios in impact funding require shared ownership of Impact, think with funders working together or portions of a HyperCert being traded.
+Typical scenarios in impact funding require shared ownership of Impact, think with funders working together or portions of a HyprCert being traded.
 To realize this, HyperCerts are semi-fungible and one of the first implementations of [EIP-3525](https://eips.ethereum.org/EIPS/eip-3525). HyperCerts consist of Fractions and each of these Fractions is an NFT ([EIP-721](https://eips.ethereum.org/EIPS/eip-721)) that can be transferred and traded. The Fractions of HyperCerts are intended to be traded easily, e.g. on OpenSea.
 
 ### Application
 
-Check out the [user flows](/flows) to see how HyperCerts are used in concrete use cases.
+Check out the [user scenarios](/scenarios) to see how HyperCerts are used in concrete use cases.
 
 ### Concepts/Background
 Curious? Head over to [Concepts/Background](background.md)!
@@ -59,8 +59,8 @@ Curious? Head over to [Concepts/Background](background.md)!
 - [x] Create Theory & popularize [Concept](background.md)
 - [x] Set up launch team at [Protocol Labs](https://protocol.ai/)
 - [x] Create v1 of [HyperCerts Protocol](https://github.com/Network-Goods/hypercerts-protocol)
-- [ ] Pilot Application
-- [ ] Rollout and Application for Funding
+- [x] Pilot Application
+- [ ] Rollout and Application for various funding scenarios
 
 > 💞 Want to work or interface with HyperCerts at your project? Let's talk and revolutionize impact funding together! 
 [HyperCerts@protocol.ai](mailto:HyperCerts@protocol.ai)

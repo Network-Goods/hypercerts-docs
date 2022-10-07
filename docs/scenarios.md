@@ -1,8 +1,10 @@
 ---
-title: User Flows
-id: flows
+title: Scenarios
+id: scenarios
 sidebar_position: 2
 ---
+
+HyperCerts are a key building block for an open ecosystem of retrospective funding and tangible impact. This outlines some key scenarios we're exploring.
 
 ## HyperCerts with simple retroactive funding
 In the simplest version of HyperCerts, retrospective funders use HyperCerts to award funding to contributors. 
