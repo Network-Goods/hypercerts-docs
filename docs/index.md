@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Introduction to HyperCerts
 
-> *HyperCerts are a tool to build and scale retrospective reward systems for impact.*
+> *HyperCerts are a tool to build scalable retrospective reward systems for impact.*
 
 
 HyperCerts are like carbon credits, but on any impact vector. While carbon credits are not perfect, they allow to reward projects for positive outcomes retrospectively, i.e. when these outcomes are observable. HyperCerts enable this for other impact areas, such as education, healthcare, AI safety and open source software.
