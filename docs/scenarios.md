@@ -4,7 +4,7 @@ id: scenarios
 sidebar_position: 2
 ---
 
-HyperCerts are a key building block for an open ecosystem of retrospective funding and tangible impact. This outlines some key scenarios we're exploring.
+HyperCerts are a key building block for an open ecosystem of retrospective funding and tangible impact. This outlines some potential scenarios we're exploring.
 
 ## HyperCerts with simple retroactive funding
 In the simplest version of HyperCerts, retrospective funders use HyperCerts to award funding to contributors. 
@@ -21,12 +21,10 @@ sequenceDiagram
 ```
 If retrospective funding becomes the norm, contributors can reliably expect to get funding for creating positive impact. This expectation incentivizes them to start creating public goods.
 
-However, until it's a norm, we use additional tools to create reliable expectations about future retrospective funding that incentivizes contributors to create public goods.
-
-> 👷‍♀️ **Minting & Multiple Contributors:** Typically, the HyperCer is minted by one of the contributors. Together, they make sure funding is distributed properly.
+However, until it's a norm, we need additional tools to create reliable expectations about future retrospective funding that incentivizes contributors to create public goods. This includes existing mechanisms like prize competitions.
 
 ## Prize competition with HyperCerts
-A funder announces a prize that is given out under specific criteria to create reliable expectations about future retrospective rewards.
+A funder announces a prize that is given out under specific criteria to create reliable expectations about future retrospective rewards. HyperCerts lower transaction costs if multiple funders use these in their prize competitions.
 
 ```mermaid
 sequenceDiagram
@@ -45,7 +43,7 @@ sequenceDiagram
 ```
 
 ## Retrospective funding pool
-Funders pool funds to achieve bigger goals. They announce funding criteria to create reliable expectations about future retrospective funding. This incentivizes contributors to start working towards these criteria.
+Smaller funders don't have the funds to create the optimal incentives with retrospective rewards. Hence multiple Funders can pool funds to achieve bigger goals. They announce funding criteria to create reliable expectations about future retrospective funding. This incentivizes contributors to start working towards these criteria.
 
 Every funder will receive fractions of the impactful HyperCerts to track the impact of their funding.
 
@@ -68,7 +66,7 @@ sequenceDiagram
     
 ```
 ## HyperCerts with pro- and retroactive funding
-Contributors can't always bootstrap their project without initial funding. When prospective funders are needd, HyperCerts make it easy to track their funding and its impacts. 
+Contributors can't always bootstrap their project without initial funding. When prospective funders are needed, HyperCerts make it easy to track their funding and its impacts. 
 
 In some cases the retrospective funder can also reward the prospective funder for making this project happen.
 
