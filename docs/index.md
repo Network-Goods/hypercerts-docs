@@ -50,12 +50,12 @@ Typical scenarios in impact funding require multiple contributors and funders wo
 Check out the [user scenarios](/scenarios) to see how HyperCerts can be used.
 
 ### Concepts/Background
-Curious? Head over to [background](background.md)!
+Curious? Head over to [background](background)!
 
 
 # Project Status 
 
-- [x] Create theory & introduce concept ([Background](background.md))
+- [x] Create theory & introduce concept ([Background](background))
 - [x] Set up launch team at [Protocol Labs](https://protocol.ai/)
 - [x] Create v0.2 of [HyperCerts Protocol](https://github.com/Network-Goods/hypercerts-protocol)
 - [x] Pilot application
