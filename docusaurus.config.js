@@ -104,15 +104,6 @@ const config = {
             ],
           },
           {
-            title: "Notes",
-            items: [
-              {
-                label: "Refinement",
-                to: "/refinement",
-              },
-            ],
-          },
-          {
             title: "Community",
             items: [
               {
