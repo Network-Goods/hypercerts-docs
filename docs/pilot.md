@@ -1,18 +1,27 @@
 ---
-title: The HyperCert pilot app
+title: Pilot App
 id: pilot
-sidebar_position: 4
+sidebar_position: 8
 ---
 
-# HyperCert pilot application
+# The HyperCert Pilot App
 
-The pilot application to mint and burn HyperCerts on the Goerli testnet is [here](https://hypercerts-pilot.vercel.app/claim-hypercert):
+> ### ❗️ Test-Net Implementation Disclaimer
+> We are excited to provide all collaborators with access to Solidity API, data models, a UI for minting or burning hypercerts, and more. We encourage everyone to experiment on the Goerli testnet and sandbox new ideas. Please continue reading for important legal disclaimers.
+> * All information, code and UI is provided as-is and is not subject to any warranties.
+> * You engage with and use the information, website and code provided at your own risk, financial, legal or otherwise.
+> * This is a test environment and collaboration space only, and nothing in the Solidity API, data models, UI or otherwise constitutes an offer to sell, lease or loan any assets.
 
-<iframe width="675" height="880" src="https://hypercerts-pilot.vercel.app/claim-hypercert" frameborder="0"></iframe>
+### Pilot web application
+* Website: [pilot.hypercerts.xyz](https://pilot.hypercerts.xyz)
+* Repository: [github.com/Network-Goods/hypercerts-pilot](https://github.com/Network-Goods/hypercerts-pilot)
 
-## Links related to the pilot
-* Technical Documentation (repo): [https://github.com/Network-Goods/hypercerts-docs](https://github.com/Network-Goods/hypercerts-docs)
-* Pilot web application (repo): [https://github.com/Network-Goods/hypercerts-pilot](https://github.com/Network-Goods/hypercerts-pilot)
-* Pilot web application (interface): [https://hypercerts-pilot.vercel.app/claim-hypercert](https://hypercerts-pilot.vercel.app/claim-hypercert)
-* The HyperCerts protocol (repo): [https://github.com/Network-Goods/hypercerts-protocol](https://github.com/Network-Goods/hypercerts-protocol)
-* The project board on GitHub (restricted access): [https://github.com/orgs/Network-Goods/projects/1](https://github.com/orgs/Network-Goods/projects/1)
+### Technical Documentation
+* Website: [network-goods.github.io/hypercerts-docs](https://network-goods.github.io/hypercerts-docs/)
+* Repository: [github.com/Network-Goods/hypercerts-docs](https://github.com/Network-Goods/hypercerts-docs)
+
+### HyperCerts Protocol
+* Repository: [github.com/Network-Goods/hypercerts-protocol](https://github.com/Network-Goods/hypercerts-protocol)
+
+### Project Board
+* The project board on GitHub (restricted access): [github.com/orgs/Network-Goods/projects/1](https://github.com/orgs/Network-Goods/projects/1)
