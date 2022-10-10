@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "HyperCerts",
   tagline: "Impact in hyperspace",
-  url: "https://protocol.github.io/",
+  url: "https://Network-Goods.github.io/",
   baseUrl: "/hypercerts-docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -17,7 +17,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "protocol", // Usually your GitHub org/user name.
+  organizationName: "Network-Goods", // Usually your GitHub org/user name.
   projectName: "hypercerts-docs", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -34,7 +34,8 @@ const config = {
       {
         // options here
         name: "contracts", // used by CLI, must be path safe
-        sourceBaseUrl: "https://raw.githubusercontent.com/protocol/hypercerts-protocol/main/docs/", // the base url for the markdown (gets prepended to all of the documents when fetching)
+        sourceBaseUrl:
+          "https://raw.githubusercontent.com/Network-Goods/hypercerts-protocol/main/docs/", // the base url for the markdown (gets prepended to all of the documents when fetching)
         outDir: "docs/contracts", // the base directory to output to.
         documents: ["index.md"], // the file names to download
       },
@@ -53,7 +54,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           remarkPlugins: [require("mdx-mermaid")],
-          editUrl: "https://github.com/protocol/hypercerts-docs",
+          editUrl: "https://github.com/Network-Goods/hypercerts-docs",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -80,7 +81,7 @@ const config = {
             label: "Docs",
           },
           {
-            href: "https://github.com/protocol/hypercerts-protocol",
+            href: "https://github.com/Network-Goods/hypercerts-protocol",
             label: "GitHub",
             position: "right",
           },
