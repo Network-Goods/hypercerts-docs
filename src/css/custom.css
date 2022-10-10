@@ -34,3 +34,7 @@ iframe.slides {
   width: 100%;
   height: auto;
 }
+
+svg[id*=mermaid]{
+  height: auto !important;
+}
