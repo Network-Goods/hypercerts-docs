@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "HyperCerts",
+  title: "Hypercerts",
   tagline: "Impact in hyperspace",
   url: "https://Network-Goods.github.io/",
   baseUrl: "/hypercerts-docs/",
@@ -72,7 +72,7 @@ const config = {
         },
       },
       navbar: {
-        title: "HyperCerts",
+        title: "hypercerts",
         items: [
           {
             type: "doc",

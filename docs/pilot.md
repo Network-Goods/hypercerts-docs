@@ -4,7 +4,7 @@ id: pilot
 sidebar_position: 8
 ---
 
-# The HyperCert Pilot App
+# The Hypercert Pilot App
 
 > ### ❗️ Test-Net Implementation Disclaimer
 > We are excited to provide all collaborators with access to Solidity API, data models, a UI for minting or burning hypercerts, and more. We encourage everyone to experiment on the Goerli testnet and sandbox new ideas. Please continue reading for important legal disclaimers.
@@ -20,7 +20,7 @@ sidebar_position: 8
 * Website: [network-goods.github.io/hypercerts-docs](https://network-goods.github.io/hypercerts-docs/)
 * Repository: [github.com/Network-Goods/hypercerts-docs](https://github.com/Network-Goods/hypercerts-docs)
 
-### HyperCerts Protocol
+### Hypercerts Protocol
 * Repository: [github.com/Network-Goods/hypercerts-protocol](https://github.com/Network-Goods/hypercerts-protocol)
 
 ### Project Board
