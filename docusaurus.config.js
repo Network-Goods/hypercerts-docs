@@ -54,7 +54,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           remarkPlugins: [require("mdx-mermaid")],
-          editUrl: "https://github.com/Network-Goods/hypercerts-docs",
+          editUrl: "https://github.com/Network-Goods/hypercerts-docs/edit/main",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
