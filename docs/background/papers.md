@@ -1,7 +1,7 @@
 ---
 title: Papers, Articles, Presentations
 id: papers
-sidebar_position: 2
+sidebar_position: 20
 ---
 
 # Background
