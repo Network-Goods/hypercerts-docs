@@ -113,7 +113,7 @@ const config = {
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/ProtoResearch",
+                href: "https://twitter.com/hypercerts",
               },
             ],
           },
