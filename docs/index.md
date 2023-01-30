@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 # Introduction
-## What's a hypercert?
+## What is a hypercert?
 
 > *Hypercerts are a tool to build scalable retrospective reward systems for impact.*
 
