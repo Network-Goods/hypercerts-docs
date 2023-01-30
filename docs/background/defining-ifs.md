@@ -1,5 +1,5 @@
 ---
-title: Defining IFSs
+title: Defining Impact Funding Systems (IFSs)
 id: defining-ifs
 sidebar_position: 2
 ---
