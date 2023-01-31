@@ -1,3 +1,5 @@
+**DEPRECATED** - Please refer to [https://github.com/Network-Goods/hypercerts](https://github.com/Network-Goods/hypercerts) for the latest docs
+
 # Website
 
 You can find the production version of this website at [protocol.github.io/hypercerts-docs](https://protocol.github.io/hypercerts-docs)
